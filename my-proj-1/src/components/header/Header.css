@@ -1,0 +1,7 @@
+.header_container {
+  margin: auto;
+  border-radius: 0 0 1rem 1rem;
+  width: calc(100% - 2rem);
+  height: 50px;
+  background-color: slateblue;
+}
